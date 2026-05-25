@@ -1,6 +1,6 @@
 # PulseLens: AI Incident War Room
 
-[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
+[![CI](https://github.com/httrung0308/pulselens/actions/workflows/ci.yml/badge.svg)](https://github.com/httrung0308/pulselens/actions/workflows/ci.yml)
 
 PulseLens is a full-stack AI observability demo: it replays a checkout outage, streams OpenTelemetry-shaped logs, traces, and metrics into a war-room dashboard, ranks evidence-cited root-cause hypotheses, and generates a postmortem.
 
